@@ -39,6 +39,18 @@ body {
   letter-spacing: 0.08em;
 }
 
+#cover {
+  display: block;
+  width: 100%;
+  aspect-ratio: 1;
+  object-fit: cover;
+  margin-top: 0.9rem;
+  border-radius: 0.75rem;
+  background: var(--line);
+}
+
+#cover[hidden] { display: none; }
+
 h1 {
   margin: 0.35rem 0 0;
   font-size: 1.6rem;
