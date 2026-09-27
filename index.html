@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>رادیو</title>
+  <link rel="stylesheet" href="./radio.css">
+</head>
+<body>
+  <main class="card">
+    <p class="kicker">رادیو</p>
+    <h1 id="title">—</h1>
+    <p id="artist" class="artist"></p>
+    <p id="status" class="status"></p>
+    <div class="bar" aria-hidden="true"><span id="bar"></span></div>
+    <div class="controls">
+      <button type="button" id="play">پخش</button>
+      <label class="volume">صدا
+        <input id="volume" type="range" min="0" max="1" step="0.01" value="0.8">
+      </label>
+    </div>
+    <p id="place" class="place"></p>
+    <h2>بعدی</h2>
+    <ol id="next"></ol>
+  </main>
+  <audio id="audio" preload="none"></audio>
+  <script src="./playlist.js"></script>
+  <script src="./radio.js"></script>
+</body>
+</html>
