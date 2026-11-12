@@ -1,21 +1,9 @@
 const PLAYLIST = [
   {
-    "title": "#1074134",
-    "artist": "",
-    "duration": 185,
-    "url": "https://sefon.pro/api/mp3_download/direct/1074134/3vUCAB6DxlJURhFyt1sLyXIU4Dnw78Pc5ng2eC3UX1nhBTcAwNa5d9pe2IMxvf28gMmWh-EEx_MDlrqn7SKMZOyvy-AslppE0zeUmXxim5oNJdgLyVsZE9Xr1ET8mC1sXmWF1kslFfMpoC015MM7OeGyRkthFtrx7gR3YjbT/"
-  },
-  {
-    "title": "velshodegan hormon",
-    "artist": "",
-    "duration": 297,
-    "url": "https://irsv.golsarmusic.ir/GolsarMusic-Root-DL3/98/10%20Dey/12/velshodegan%20hormon.mp3"
-  },
-  {
-    "title": "#9182",
-    "artist": "",
-    "duration": 285,
-    "url": "https://sefon.pro/api/mp3_download/direct/9182/3vUCAM4aENjuQwVEXnQa5-mrUtggcWETu7Plwdn5sDIzV4DBfhEOYihLOTYbD3zHSFelc6DUa1lo_sEqM7rwis-ZqdZrEFiJn74usAJcz_ob6x4_OVmIG2Sy_JbrTHPjWI75R_QVniKG8lciYSau8t80aRpwSBEqVTwC/"
+    "title": "Holding Out for a Hero",
+    "artist": "Bonnie Tyler",
+    "duration": 262,
+    "url": "https://dl.behmelody.in/1401/Khordad/Bonnie%20Tyler%20-%20Holding%20Out%20for%20a%20Hero.mp3"
   },
   {
     "title": "Nava (Sazo Avaz)",
@@ -219,7 +207,7 @@ const PLAYLIST = [
     "title": "alameh yekrangi",
     "artist": "",
     "duration": 290,
-    "url": "https://cdnmrtehran.ir/media/mp3s/Hayedeh/Albums/Shanehhayat_Ra/alameh_yekrangi.mp3"
+    "url": "https://dl.musicrooz.com/2024/music/3/Other/Hatedehtalai/2-08%20Alame%20Yekrangi.mp3"
   },
   {
     "title": "Man Ba Khoda Tanham",
@@ -238,18 +226,6 @@ const PLAYLIST = [
     "artist": "",
     "duration": 60,
     "url": "https://lachinipiano.akamaized.net/music/ScentOfYesterday31/BiaBenevisim.mp3"
-  },
-  {
-    "title": "#256253",
-    "artist": "",
-    "duration": 185,
-    "url": "https://sefon.pro/api/mp3_download/direct/256253/3vUCAAyLe_iOYP9QdF9ej-pceT8fSArTRP9tt6dr5UWWrl9GYvbmQyO7H04IgQD8QpytcHLEOqLZMaqsWm5xWu3Ew2-VaJDfPbd61DjgGvdcQg5ly6QxSvjH34BYoTtvItPb_1uUjmuoa9qOGUAx6vCyH8qDN7WwXX3lXTU/"
-  },
-  {
-    "title": "#813392",
-    "artist": "",
-    "duration": 229,
-    "url": "https://sefon.pro/api/mp3_download/direct/813392/3vUCAOhuGDO2iZv8_uZW4mEMS7uFtvESneENPGL6y1IhcBFAp1bo4UeugzLH3uOyDojFT0jkfGx5c-AQOk9mAIBTNm8IInqtVQu1bKhfIP5tEaYD1kqX1UDx2Flmo_SvJq0smD7jJz1Q4bY7FozXi3PKGpKOV3dKOlUJNvA/"
   },
   {
     "title": "band eteraf",
@@ -276,16 +252,10 @@ const PLAYLIST = [
     "url": "https://dl.musicdel.ir/Music/1403/01/mohsen_chavoshi_gonjeshke_parideh.mp3"
   },
   {
-    "title": "#1257322",
-    "artist": "",
-    "duration": 163,
-    "url": "https://sefon.pro/api/mp3_download/direct/1257322/3vUCAEBp4SflQ6TNDowjwB2DIXGWT_-Oibgu0PSmUhG11Dk-FPihlIzTGO5Q9ADiKp8eb_UWGNkN-wz5xj28LvMn26W4issZb4lLrgQB2FOL235B2ahyxePf5vNX7fD3B1E3vjKxdCQvegbxzzG5t-8Qwl-AgQR3BwuyQ_B4/"
-  },
-  {
-    "title": "#1554622",
-    "artist": "",
-    "duration": 169,
-    "url": "https://sefon.pro/api/mp3_download/direct/1554622/3vUCAJvMnwpqQwZL_e2JkgDY-vuTIZJ3yB7q5hXOHHa_VGLjMp-21i6pp674If7Mkb-tK_gH0ZG2gZ6y22GYsD6fFsLKcbLXKoCjA_8j5bj1XI1_70zTnuE3UEMFyWAL-fIvOgKS7ltqUqUh4zisECsBzYiNcB7Zt-nMlOCG/"
+    "title": "Let Me Down Slowly",
+    "artist": "Alec Benjamin",
+    "duration": 177,
+    "url": "https://files.musicfeed.ir/2020/03/Alec-Benjamin-Let-Me-Down-Slowly-musicfeed.ir_.mp3"
   },
   {
     "title": "Paye Man",
@@ -330,22 +300,16 @@ const PLAYLIST = [
     "url": "https://dl.ahaang.com/99/02/04/Rag%20n%20Bone%20Man%20-%20Human.mp3"
   },
   {
-    "title": "#9400",
-    "artist": "",
-    "duration": 198,
-    "url": "https://sefon.pro/api/mp3_download/direct/9400/3vUCAOBV5cI8FvBf13_y-PpfZ9c_U-syKenAzVKMlQ_s8VkTjWrAUZQeeOV8fQ9bwPo2vAZ0lUbxz9p3T_B6a5wqIa4tgIhNyBYL3xev-14uZF8-lOGTGurg35mVJD1RUxKXMq9YFM0AGBXTQl3QqomkMAndxlazdzOv/"
+    "title": "I Will Survive",
+    "artist": "Gloria Gaynor",
+    "duration": 241,
+    "url": "https://files.musicfeed.ir/2019/01/Gloria-Gaynor-i-will-survive.mp3"
   },
   {
     "title": "Jahane-Fased Chavoshi",
     "artist": "",
-    "duration": 214,
-    "url": "https://dl.artment.ir/Musics/Farsi/Mohsen-Chavoshi/1397-Ebrahim/Jahane-Fased_Chavoshi.mp3"
-  },
-  {
-    "title": "#1469604",
-    "artist": "",
-    "duration": 187,
-    "url": "https://sefon.pro/api/mp3_download/direct/1469604/3vUCAPBxrbrb7rIN_4wwhpNwBuM2d6VAe2ySXl7aNLGsMz2HL18OU8f6tJRbsGzimQ8tQs2dRDbxZNfww2HJVs9G3wW58iHHuXjyYPSsW6meV5WL_-AndSS4rViKnadrFfFMDcYA4yLgyORJUkkepKH_eM0mvGkaU7Ypbea0/"
+    "duration": 215,
+    "url": "https://dl.rozmusic.com/Music/1400/08/05/Mohsen%20Chavoshi%20-%20Jahane%20Fasede%20Mardom%20Ra.mp3"
   },
   {
     "title": "Shish o Hasht",
@@ -390,16 +354,16 @@ const PLAYLIST = [
     "url": "https://dl.musicdel.ir/tag/music/1404/02/28/Reza%20Sadeghi%20-%20Shekaar%20%28320%29.mp3"
   },
   {
-    "title": "#1311996",
-    "artist": "",
-    "duration": 248,
-    "url": "https://sefon.pro/api/mp3_download/direct/1311996/3vUCABQJMptLtCQ1QyzqU6-NTbSdkip9400ClP8CSpVNbp2s-3AB9rrsFzQGphOmbLxIwgLw_uFujlmgzocbsYrm1f8j8OdPOus-aJ4bTws6qfz_STVin53wsPt8oMhN1BZNbpWSsYbISJruqVffvOyrsIhVvK8p0EAxOvmH/"
+    "title": "Training Season",
+    "artist": "Dua Lipa",
+    "duration": 210,
+    "url": "https://dl.behmelody.in/1402/11/27/Dua%20Lipa%20-%20Training%20Season.mp3"
   },
   {
     "title": "Ravi",
     "artist": "Hayedeh",
-    "duration": 314,
-    "url": "https://dl.sepidmusic.com/Download/Music/1403/07/Hayedeh%20-%20Ravi.mp3"
+    "duration": 315,
+    "url": "https://dl.beroosic.ir/music/1403/12/Ravi.mp3"
   },
   {
     "title": "Delam Mikhad",
@@ -432,10 +396,10 @@ const PLAYLIST = [
     "url": "https://dls.melomusic.ir/artist/s/siavash-ghomayshi/1403/Siavash%20Ghomayshi%20-%20Jazireh.mp3"
   },
   {
-    "title": "#128465",
-    "artist": "",
-    "duration": 170,
-    "url": "https://sefon.pro/api/mp3_download/direct/128465/3vUCALfH35tFjQGyxBgrZQguHjbeucajRZblsLOqXzeo8zJJrVS4R3rjVxmTtFwEmLb2epM-H5l0QSIE7IGgRSYVd2H0IE0GKrapww6wRt1qVKvx39KygV4IIi2_zKAEeVKOwhlR0aWLgWjsVIr0mlpsldIruWq-q0Pw24g/"
+    "title": "DARKSIDE",
+    "artist": "Neoni",
+    "duration": 168,
+    "url": "https://kk.soonami.ir/Darkside.mp3"
   },
   {
     "title": "Khanoom Gol",
@@ -452,8 +416,8 @@ const PLAYLIST = [
   {
     "title": "Gheseye Man",
     "artist": "Hayedeh",
-    "duration": 354,
-    "url": "https://dl.sepidmusic.com/Download/Music/1404/09/Hayedeh%20-%20Gheseye%20Man.mp3"
+    "duration": 352,
+    "url": "https://dl.remiixbaz.com/music/haydeh/Haydeh%20-%20Ghese%20Man%20%28Remiixbaz.com%29%20%28320%29.mp3"
   },
   {
     "title": "Gol Vajeh",
@@ -466,18 +430,6 @@ const PLAYLIST = [
     "artist": "",
     "duration": 325,
     "url": "https://dl.melod.ir/Musics/F/Fadel%20Chaker/Fadel-Chaker--Ya-Ghayeb_melod.ir.mp3"
-  },
-  {
-    "title": "#2828026",
-    "artist": "",
-    "duration": 187,
-    "url": "https://sefon.pro/api/mp3_download/direct/2828026/3vUCAD0Wmp-KS6t2Ge2ZlthRp_mFpR9Sit-3-LdbQeP08O4Kj0dSyeAix943B4H2iAQLku3t_Yhu6ul5YcQDjAuTU8u1U0BSi3qU-WkotEu_TEHLl7hYqmnrNtsGp0fa3sc0T0Tntcojh9SA0asEtx9fyRTn9bBcWifC1kS1/"
-  },
-  {
-    "title": "#2193110",
-    "artist": "",
-    "duration": 188,
-    "url": "https://sefon.pro/api/mp3_download/direct/2193110/3vUCAN57I5z71Ck5VkDNlZFTTbhod82R1dd8lTCH6NCwGrzTCBNh-46QWO-e-5JmKmkKV9NkdInY7sft2S0w6O_u3zMLOOJjITrafJzuOYk2zg3j5Hvvf-KuQ_J8Nmf9XK4hMIzfwh8TFgTBN22A48a8uDGfS_u_XA4NExmv/"
   },
   {
     "title": "Shirin",
